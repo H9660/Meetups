@@ -1,2 +1,0 @@
--> Normally if we use the peer to peer connection its stable with only with 2 clients. So not scalable
--> Hence we use SFU (Selecting forwarding unit) to scale this
