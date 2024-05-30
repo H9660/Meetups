@@ -13,6 +13,9 @@
 /.next/
 /out/
 
+# Theory
+/theory
+
 # production
 /build
 
